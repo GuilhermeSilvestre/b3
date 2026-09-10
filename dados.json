@@ -69,22 +69,6 @@
       },
       {
         "mesa": "Mide",
-        "plano": "Exame Arrojado",
-        "status": "Fase 1",
-        "qtd_contratos": 20,
-        "daily_drawdown": 825.00,
-        "detalhes": {
-          "valor_plano": 190.00,
-          "plataforma_vencimento": "Vence dia 1",
-          "conta_profit": "xxxx - Conta xx",
-          "codigo": "HKKN6J",
-          "repasse_inicio": "-",
-          "margem": "3.300,00"
-        },
-        "operacoes": []
-      },
-      {
-        "mesa": "Mide",
         "plano": "Exame Arrojado 100%",
         "status": "Fase 1",
         "qtd_contratos": 20,
@@ -94,6 +78,22 @@
           "plataforma_vencimento": "-",
           "conta_profit": "-",
           "codigo": "-",
+          "repasse_inicio": "-",
+          "margem": "3.300,00"
+        },
+        "operacoes": []
+      },
+      {
+        "mesa": "Mide",
+        "plano": "Exame Arrojado",
+        "status": "Encerrado",
+        "qtd_contratos": 20,
+        "daily_drawdown": 825.00,
+        "detalhes": {
+          "valor_plano": 190.00,
+          "plataforma_vencimento": "Vence dia 1",
+          "conta_profit": "xxxx - Conta xx",
+          "codigo": "HKKN6J",
           "repasse_inicio": "-",
           "margem": "3.300,00"
         },
